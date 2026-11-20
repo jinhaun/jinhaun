@@ -7,6 +7,7 @@
 ## 둘러보기
 
 - 🏙️ **[서울 데이터](https://github.com/jinhaun/seoul-data)** — 서울의 인구와 도시 정보를 자동으로 모으는 프로젝트
+- 📊 **[서울 일본인 데이터 분석](https://public.tableau.com/app/profile/haun.jin/viz/_17932549978200/1_)** — 서울의 일본인 데이터를 살펴본 분석
 - 📅 **[나다운하루](https://github.com/jinhaun/unharu)** — 일정과 하루를 기록하는 개인 달력
 
 ## 요즘 관심 있는 것
